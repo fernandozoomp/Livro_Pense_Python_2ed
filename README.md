@@ -36,7 +36,4 @@ $ pandoc PenseEmPython.xml -f docbook -t markdown_github -o PenseEmPython.md
 Os arquivos _markdown_ separados por capítulo em [`recebido/docs/`](recebido/docs/) foram gerados a partir de `PenseEmPython.md` pelo script [`util/separar_capitulos.py`](util/separar_capitulos.py).
 
 A partir desse ponto, os ajustes nos capítulos foram feitos manualmente, com ajuda ocasional de scripts encontrados no diretório [`util/`](util/).
-=======
-# Livro_Pense_Python_2ed
-Tradução para o português do Livro Pense Python 2 ediçaõ.
->>>>>>> 58f6b7d307e3220b37655f84b06d7ce0c2a218c2
+
