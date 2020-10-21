@@ -4,7 +4,8 @@
 
 Para contribuir:
 
-1. Use o GitHub para fazer um fork do [repositório principal](https://github.com/PenseAllen/PensePython2e.git).
+1. Use o GitHub para fazer um fork do [repositório principal](https://github.com/fernandozoomp/Livro_Pense_Python_2ed
+.git).
 
 2. Clone o seu fork em sua máquina local.
 
